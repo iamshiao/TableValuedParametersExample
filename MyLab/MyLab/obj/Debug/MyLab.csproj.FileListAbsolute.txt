@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2013\Projects\MyLab\MyLab\bin\Debug\MyLab.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\MyLab\MyLab\bin\Debug\MyLab.exe
+c:\users\administrator\documents\visual studio 2013\Projects\MyLab\MyLab\bin\Debug\MyLab.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\MyLab\MyLab\bin\Debug\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyLab\MyLab\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyLab\MyLab\bin\Debug\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyLab\MyLab\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\administrator\documents\visual studio 2013\Projects\MyLab\MyLab\bin\Debug\zh-Hant\EntityFramework.resources.dll
+c:\users\administrator\documents\visual studio 2013\Projects\MyLab\MyLab\obj\Debug\MyLab.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\MyLab\MyLab\obj\Debug\MyLab.exe
+c:\users\administrator\documents\visual studio 2013\Projects\MyLab\MyLab\obj\Debug\MyLab.pdb

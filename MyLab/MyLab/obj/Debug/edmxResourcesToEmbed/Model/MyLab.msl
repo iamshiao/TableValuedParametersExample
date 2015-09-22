@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MyLabModelStoreContainer" CdmEntityContainer="MyLabEntities">
+    <EntitySetMapping Name="Product">
+      <EntityTypeMapping TypeName="MyLabModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="descrp" ColumnName="descrp" />
+          <ScalarProperty Name="lastEditAt" ColumnName="lastEditAt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_BatchEditProd" FunctionName="MyLabModel.Store.sp_BatchEditProd" />
+  </EntityContainerMapping>
+</Mapping>
